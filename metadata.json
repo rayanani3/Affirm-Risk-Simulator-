@@ -1,0 +1,5 @@
+{
+  "name": "Affirm Risk Simulator",
+  "description": "A dynamic portfolio risk simulation engine visualizing credit portfolio losses under baseline and stressed economic scenarios using the Vasicek ASRF model.",
+  "requestFramePermissions": []
+}
